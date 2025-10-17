@@ -3,7 +3,7 @@
 ## Présentation
 
 Bienvenue sur l’organisation **Outfitter** !
-Ce projet universitaire se décline en plusieurs parties : web, mobile, et autres modules annexes, pour offrir une expérience complète autour du partage et de la recommandation de tenues vestimentaires.
+Ce projet universitaire se décline en plusieurs parties : web, et autres modules annexes, pour offrir une expérience complète autour du partage et de la recommandation de tenues vestimentaires.
 
 L’objectif est de permettre à chaque utilisateur de :
 - Gérer sa garde-robe virtuelle via photo/scan d’articles mode.
