@@ -15,7 +15,6 @@ L’objectif est de permettre à chaque utilisateur de :
 ## Dépôts de l’organisation
 
 - **web** : Application web (Svelte)
-- **mobile** : Application mobile (Flutter)
 
 ## Fonctionnalités transverses
 
