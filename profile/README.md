@@ -20,14 +20,12 @@ L’objectif est de permettre à chaque utilisateur de :
 
 - **Authentification centralisée** (JWT)
 - **Stockage partagé des images** (local)
-- **Synchronisation entre plateformes** (web & mobile)
-- **API REST** pour les échanges entre modules
 - **Respect de la vie privée et RGPD**
 
 ## Installation générale
 
 Chaque dépôt dispose de son propre README avec instructions d’installation spécifiques.
-Pour les développeurs, suivre les étapes d’installation dans chaque projet (`web`, `mobile`, `api`, etc.).
+Pour les développeurs, suivre les étapes d’installation dans chaque projet (`web`, etc.).
 
 ## Contribuer
 
